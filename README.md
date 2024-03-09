@@ -1,15 +1,10 @@
-1. Overview: 
-  This repository hosts two Python challenges designed for practical application of Python skills in analyzing financial and polling data.
-  Structure: Inside, create PyBank and PyPoll folders, each with a main.py file, a Resources folder for CSV data, and an analysis folder for results.
-2. Challenges:
-    a. PyBank
-    Goal: Analyze financial records from budget_data.csv.
-    Tasks: Calculate total months, net profit/loss, average change, greatest increase and decrease in profit.
-    Output: Print results and save to a text file in analysis.
-    b. PyPoll
-    Goal: Modernize vote-counting for a dataset election_data.csv.
-    Tasks: Count total votes, list candidates, calculate vote percentages and totals, and determine the winner.
-    Output: Display results and export to a text file in analysis.
-3. Tools Languages: Python
-4. Conclusion
-Engage with real-world data analysis using Python, enhancing both coding and problem-solving skills.
+1. Overview
+Conducting data-driven review of school performance metrics to guide strategic decisions on budgeting and educational priorities.
+
+2. Tooling: Use Jupyter Notebook for analysis, with the Pandas library.
+3. Analysis: 
+  District Summary: Key metrics including total schools, students, budget, and average scores.
+  School Insights: Detailed performance metrics for each school.
+  Performance Rankings: Identification of top and bottom-performing schools.
+  Spending Impact Analysis: Examination of how spending per student influences school performance.
+  Size and Type Analysis: Analysis of school performance by size and type (Charter vs. District).
